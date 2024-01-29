@@ -10,4 +10,4 @@ The dynamic programming approach allows the algorithm to efficiently handle vari
 The Levenshtein Distance is a versatile metric that can be used not only for spelling correction but also for tasks such as approximate string matching, plagiarism detection, and DNA sequence alignment. It provides a quantitative measure of similarity that is valuable in a wide range of computational applications.
 
 
-This code is inspired from the video: (`[The Algorithm Behind Spell Checkers](https://www.youtube.com/watch?v=d-Eq6x1yssU)`).
+This code is inspired from the video: [The Algorithm Behind Spell Checkers](https://www.youtube.com/watch?v=d-Eq6x1yssU).
